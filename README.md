@@ -20,6 +20,7 @@ I am an AI specialist with experience in deep learning, natural language process
 ### 2. Categorize Arabic News Data
 - Built a machine learning model to categorize Arabic news articles by topic.
 - Used text preprocessing and classification algorithms for precise results.
+- **Repository:** [Categorize Arabic News Data](https://github.com/lojainfalltah23/Categorize-Arabic-News-Data)
 
 ### 3. Keylogging Threat and Anti-Keylogging Techniques
 - Researched keylogging threats and developed techniques to detect and prevent them.
