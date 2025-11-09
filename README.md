@@ -31,7 +31,7 @@ I am an AI specialist with experience in deep learning, natural language process
 - Applied preprocessing techniques (cleaning, normalization, removing HTML/symbols) to enhance language consistency.
 - Tuned hyperparameters using Hugging Face Transformers for optimal performance.
 - Results showed improved contextual relevance and reduction in validation loss during training.
-- **Repository:** [Fine-Tuning GPT2 Arabic](https://github.com/lojainfallatah23/fine-tune-arabic-gpt2)
+- **Repository:** [Fine-Tuning GPT2 Arabic]([https://github.com/lojainfallatah23/fine-tune-arabic-gpt2](https://github.com/lojainfalltah23/fine-tune-arabic-gpt2))
 
 ---
 
