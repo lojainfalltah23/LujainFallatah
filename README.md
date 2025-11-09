@@ -26,6 +26,13 @@ I am an AI specialist with experience in deep learning, natural language process
 - Researched keylogging threats and developed techniques to detect and prevent them.
 - Implemented security measures to protect against keylogger attacks.
 
+### 4. Fine-Tuning GPT-2 for Arabic News Dataset
+- Fine-tuned GPT-2 on a curated Arabic news dataset to improve Arabic text generation quality.
+- Applied preprocessing techniques (cleaning, normalization, removing HTML/symbols) to enhance language consistency.
+- Tuned hyperparameters using Hugging Face Transformers for optimal performance.
+- Results showed improved contextual relevance and reduction in validation loss during training.
+- **Repository:** [Fine-Tuning GPT2 Arabic](https://github.com/lojainfallatah23/fine-tune-arabic-gpt2)
+
 ---
 
 ## Skills
