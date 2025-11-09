@@ -41,7 +41,7 @@ I am an AI specialist with experience in deep learning, natural language process
 - Used background subtraction, motion tracking, morphological operations, and contour detection to identify stationary objects.
 - Implemented a custom tracking module that assigns IDs and measures object movement duration to flag abandoned objects.
 - System compares static background frame vs continuous frames and triggers alert when object stays too long at same position.
-- **Repository:** [Abandoned Object Detector](https://github.com/lojainfallat23/cv-abandoned-object-detector/tree/main)
+- **Repository:** [Abandoned Object Detector]([https://github.com/lojainfallat23/cv-abandoned-object-detector/tree/main](https://github.com/lojainfalltah23/cv-abandoned-object-detector/tree/main))
 
 
 ---
