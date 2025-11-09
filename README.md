@@ -47,11 +47,13 @@ I am an AI specialist with experience in deep learning, natural language process
 ---
 
 ## Skills
-- Deep Learning
+- Machine Learning & Deep Learning
+- Computer Vision (YOLO, Object Detection, Tracking, VLM Verification)
 - Natural Language Processing (NLP)
-- Machine Learning
-- Python Programming
-- Data Analysis
+- Python Programming (Pandas, NumPy, OpenCV, PyTorch)
+- Data Analysis & Data Cleaning
+- Model Evaluation & Performance Optimization
+- Prompt Engineering & Vision-Language Models (VLM)
 
 ---
 
