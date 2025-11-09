@@ -33,6 +33,14 @@ I am an AI specialist with experience in deep learning, natural language process
 - Results showed improved contextual relevance and reduction in validation loss during training.
 - **Repository:** [Fine-tune Arabic GPT-2](https://github.com/lojainfalltah23/fine-tune-arabic-gpt2)
 
+### 5. Abandoned Object Detection
+- Developed a computer vision system to detect suspicious or abandoned items in surveillance video streams.
+- Used background subtraction, motion tracking, morphological operations, and contour detection to identify stationary objects.
+- Implemented a custom tracking module that assigns IDs and measures object movement duration to flag abandoned objects.
+- System compares static background frame vs continuous frames and triggers alert when object stays too long at same position.
+- **Repository:** [Abandoned Object Detector](https://github.com/lojainfallat23/cv-abandoned-object-detector/tree/main)
+
+
 ---
 
 ## Skills
