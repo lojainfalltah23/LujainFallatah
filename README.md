@@ -20,23 +20,19 @@ I am an AI specialist with experience in deep learning, natural language process
 - Outputs processed video with bounding boxes, snapshots, and structured JSON logs for detection metadata.
 - **Repository:** [Waste Detection](https://github.com/lojainfalltah23/Waste-Detection)
 
-### 3. Categorize Arabic News Data
+### 2. Categorize Arabic News Data
 - Built a machine learning model to categorize Arabic news articles by topic.
 - Used text preprocessing and classification algorithms for precise results.
 - **Repository:** [Categorize Arabic News Data](https://github.com/lojainfalltah23/Categorize-Arabic-News-Data)
 
-### 4. Keylogging Threat and Anti-Keylogging Techniques
-- Researched keylogging threats and developed techniques to detect and prevent them.
-- Implemented security measures to protect against keylogger attacks.
-
-### 5. Fine-Tuning GPT-2 for Arabic News Dataset
+### 3. Fine-Tuning GPT-2 for Arabic News Dataset
 - Fine-tuned GPT-2 on a curated Arabic news dataset to improve Arabic text generation quality.
 - Applied preprocessing techniques (cleaning, normalization, removing HTML/symbols) to enhance language consistency.
 - Tuned hyperparameters using Hugging Face Transformers for optimal performance.
 - Results showed improved contextual relevance and reduction in validation loss during training.
 - **Repository:** [Fine-tune Arabic GPT-2](https://github.com/lojainfalltah23/fine-tune-arabic-gpt2)
 
-### 6. Abandoned Object Detection
+### 4. Abandoned Object Detection
 - Developed a computer vision system to detect suspicious or abandoned items in surveillance video streams.
 - Used background subtraction, motion tracking, morphological operations, and contour detection to identify stationary objects.
 - Implemented a custom tracking module that assigns IDs and measures object movement duration to flag abandoned objects.
